@@ -1,7 +1,6 @@
-     👋 Hi
-      I’m @thaistenello
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thais Tenello</h1>
+
+- 🌱 I’m a curious learning  HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
 - 📫 How to reach me @thaistenello
 
 <!---
