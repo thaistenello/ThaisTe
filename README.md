@@ -1,5 +1,5 @@
      👋 Hi
-      I’m @ThaisTe
+      I’m @thaistenello
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
 - 📫 How to reach me @thaistenello
